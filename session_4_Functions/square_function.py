@@ -10,5 +10,6 @@ def square(color,length):
         
     
 
-square(20, "yellow")
+# square(20, "yellow") #TypeError
+square("yellow", 20)
 turtle.done()
