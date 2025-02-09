@@ -1,0 +1,21 @@
+div.first{
+    width: 50%;
+    background-color: yellow;
+    border: dashed gray;
+
+}
+
+.focus{
+    color: red;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+#bear{
+    display: block;
+}
+
+.bears{
+    height: 400px;
+    background-color: bisque;
+}
