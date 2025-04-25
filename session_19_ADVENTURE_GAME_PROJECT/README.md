@@ -49,5 +49,5 @@ print(f"The randomly selected item is: {random_item}")
 
 ## <a href = "https://docs.google.com/spreadsheets/d/1WdzPZetOtESn8bjI0b94v6pRjo_5nQgrOg01Xw8E4ww/edit?usp=sharing">PROJECT REQUIREMENTS</a>
 
-## <a href = "https://docs.google.com/spreadsheets/d/1Bry-AwWI75WvaBn8JX94XFgnhgUujlHCcqFIOa1T_mc/edit?usp=sharing">PROJECT REQUIREMENTS Fri 8</a>
+## <a href = "https://docs.google.com/spreadsheets/d/12tKgNGyGoQic2POuEh_rWaYK6RLS5kuZ7o3CsgEBBbc/edit?usp=sharing">PROJECT REQUIREMENTS Fri 2</a>
 
